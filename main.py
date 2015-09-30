@@ -1,2 +1,2 @@
-print('Bonjour fois 2 test')
+print('Bonjour fois 2 test 50')
 
